@@ -25,7 +25,7 @@ int ENEMY_POKEMON_ATTACK = 10;  //You don't have to use this variable but its he
 //---If Necessary Add Your Global Variables Here---// 
 // 
 //
-string pokemons[] = {"", "Bulbasaur", "Charmender", "Squirtle"};
+string pokemons[] = {"", "Bulbasaur", "Charmender", "Squirtle", "Pikachu"};
 //
 //-------------------------------------------------//
 
